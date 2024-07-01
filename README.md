@@ -17,5 +17,5 @@ well probaly yes. i will try my best to update these but i have limited time you
 
 
 ---
-<a href="https://modrinth.com/user/Cool_one"><img src="https://i.imgur.com/Wi0gG3J.png" alt="modrinth" width="50" style="display: block; margin: 0 auto;"></a> <a href="https://media.istockphoto.com/id/1356466745/vector/vector-illustration-coming-soon-banner-with-clock-sign.jpg?s=612x612&w=0&k=20&c=B3zjuvyrKLWPXmadC1TptchLH6et9P9-Nrr76Pia8Lo="><img src="https://i.imgur.com/qeYK6H3.png" alt="Discord" width="50"></a> 
+<a href="https://modrinth.com/resourcepack/duck-totem"><img src="https://i.imgur.com/Wi0gG3J.png" alt="modrinth" width="50" style="display: block; margin: 0 auto;"></a> <a href="https://media.istockphoto.com/id/1356466745/vector/vector-illustration-coming-soon-banner-with-clock-sign.jpg?s=612x612&w=0&k=20&c=B3zjuvyrKLWPXmadC1TptchLH6et9P9-Nrr76Pia8Lo="><img src="https://i.imgur.com/qeYK6H3.png" alt="Discord" width="50"></a> 
 
