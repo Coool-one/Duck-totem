@@ -1,6 +1,7 @@
 ![DUCK TOTEM!!!!](https://cdn.modrinth.com/data/cached_images/1df9482f9039abd6a53a99e8ab42476f9de0ad4e.png)
 
 This Resource pack changes the Totem of undying to a Rubber duck... bcz
+(this repositery is to share the code, download the resource pack from modrinth)
 
 ## preview
 ![quak](https://cdn.modrinth.com/data/cached_images/40dc935c0705e3e69cc0c9819886ee5995c7d1a0.png)
